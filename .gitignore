@@ -1,0 +1,11 @@
+*.suo
+bin
+obj
+Debug
+Release
+Packages
+*.d
+*.o
+__vm
+.vs
+*.ncrunchsolution.user
